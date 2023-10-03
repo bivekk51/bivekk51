@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **Node.Js**
 
-- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **nepalbivek08@gmail.com**
 
